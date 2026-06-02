@@ -1,4 +1,5 @@
-Wilde World.
+CosmoFamily
+CosmoFamily es una empresa ficticia de turismo espacial premium orientada a familias que desean vivir experiencias educativas y de aventura en destinos del sistema solar con altos estándares de seguridad y confort.
 
 https://stitch.withgoogle.com/projects/2165305582250518445?node-id=1702549ba0ef4e73a569deabc4f570b2
 https://stitch.withgoogle.com/projects/2165305582250518445?node-id=fab42d89ba9d4f52b54ff17ef36398cf
