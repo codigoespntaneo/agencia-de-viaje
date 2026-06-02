@@ -1,5 +1,5 @@
 CosmoFamily
-CosmoFamily es una empresa ficticia de turismo espacial premium orientada a familias que desean vivir experiencias educativas y de aventura en destinos del sistema solar con altos estándares de seguridad y confort.
+Es una empresa ficticia de turismo espacial premium orientada a familias que desean vivir experiencias educativas y de aventura en destinos del sistema solar con altos estándares de seguridad y confort.
 
 Mockups
 El proyecto recrea una página web para una agencia de viajes espaciales llamada CosmoFamily. El diseño incluye una sección principal de presentación y una sección de características destacadas.
