@@ -170,7 +170,6 @@ nav.fixed::after {
   text-shadow: 0 2px 30px rgba(192, 132, 252, 0.3);
 }
 
-.hero-gradient p { color: rgba(233, 213, 255, 0.85) !important; }
 
 .hero-gradient .badge-mission {
   background: linear-gradient(135deg, rgba(192, 132, 252, 0.25), rgba(250, 204, 21, 0.20)) !important;
@@ -178,13 +177,14 @@ nav.fixed::after {
   border: 1px solid rgba(250, 204, 21, 0.45);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 18px var(--yellow-soft);
+  color:black;
 }
 
 /* Tarjeta flotante del hero */
 .glass-card {
   background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.95) 0%,
-    rgba(243, 232, 255, 0.95) 100%) !important;
+    rgba(240, 210, 57, 0.95) 0%,
+    rgba(131, 77, 188, 0.95) 100%) !important;
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid rgba(168, 85, 247, 0.25) !important;
@@ -203,7 +203,7 @@ nav.fixed::after {
   background: linear-gradient(135deg, var(--purple-600), var(--purple-400));
   -webkit-background-clip: text;
           background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: var(--purple-900);
 }
 
 /* ============== BOTONES ============== */
